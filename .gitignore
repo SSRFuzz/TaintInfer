@@ -23,3 +23,8 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+tests/
+.vscode/
+.idea/
+test.sh
